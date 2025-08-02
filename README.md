@@ -17,7 +17,6 @@ Outside of work, you'll find me tinkering with Python scripts, crafting intricat
 - **Industrial 3D Printing**: Industrial FDM/FFF
 - **CAD Design**: Fusion 360
 - **Programming**: Python (mostly small scripts), Arduino
-- **Prototyping & Automation**: Hobby electronics, rapid prototyping
 
 ---
 
