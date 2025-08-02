@@ -1,4 +1,4 @@
-# Hi, I'm Ashid Sha 👋
+# Hi, I'm AshidSha 👋
 
 **Industrial Engineer | 3D Printing Application Engineer | Maker**
 
