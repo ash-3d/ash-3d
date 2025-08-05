@@ -8,7 +8,7 @@
 
 I'm an industrial engineer with 7 years of experience in the world of industrial 3D printing. Currently, I work as a 3D Printing Application Engineer—bridging the gap between cutting-edge manufacturing and real-world problem solving.
 
-Outside of work, you'll find me tinkering with Python scripts, crafting intricate CAD designs, and experimenting with Arduino boards. I love to combine my engineering background with creativity, always seeking new ways to build, automate, and innovate.
+Outside of work, you'll find me tinkering with Python scripts, crafting CAD designs, and experimenting with Arduino boards. I love to combine my engineering background with creativity, always seeking new ways to build, automate, and innovate.
 
 ---
 
